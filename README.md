@@ -1,6 +1,6 @@
-<h1><p align="center"> Project UAS Pemrograman Visual</h1><br> 
+<h1><p align="center"> Project UAS Pemrograman Visual</h1><br>  😎
 
-**KELOMPOK 4**
+**KELOMPOK 5**
 
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
@@ -10,7 +10,6 @@
 | 4. | Hilman Ihza Amrullah  | 312210310 | TI.22.A3 |
 | 5. | Rini Ariza  | 312210337 | TI.22.A3 |
 
-  
 <br><br>
 
 # Kasir-Gudang-App
