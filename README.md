@@ -1,4 +1,4 @@
-<h1><p align="center"> Project UAS Pemrograman Visual</h1><br>  😎
+<h1><p align="center"> Project UAS Pemrograman Visual Dekstop</h1><br>  😎
 
 **KELOMPOK 5**
 
