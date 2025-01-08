@@ -1,3 +1,18 @@
+<h1><p align="center"> Project UAS Pemrograman Visual</h1><br> 
+
+**KELOMPOK 4**
+
+| No.| Nama Kelompok | NIM | Kelas |
+|----|------------|--------|-------|
+| 1. | Chaerul Hidayat | 312210300| TI.22.A3 |
+| 2. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
+| 3. | Aan Fadillah Putra  | 312210327 | TI.22.A3 |
+| 4. | Hilman Ihza Amrullah  | 312210310 | TI.22.A3 |
+| 5. | Rini Ariza  | 312210337 | TI.22.A3 |
+
+  
+<br><br>
+
 # Kasir-Gudang-App
 Aplikasi Gudang dan Kasir Desktop Menggunakan Java (Netbeans)
 > Aplikasi ini adalah aplikasi pertama saya saat belajar java programming
